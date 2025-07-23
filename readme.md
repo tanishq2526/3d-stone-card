@@ -9,10 +9,10 @@ A highly realistic 3D card component that simulates a **solid stone slab** with 
 
 ```
 3d-stone-card/
-├── index.html # HTML layout
-├── style.css # 3D visual styling
-├── script.js # Smooth tilt + light logic
-└── README.md # Project documentation
+├── index.html 
+├── style.css 
+├── script.js 
+└── README.md 
 ```
 
 
